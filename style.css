@@ -75,6 +75,7 @@ body * {
 #switch button :hover {
   outline: 8px solid var(--higtligh-color);
 }
+
 #switch span {
   display: block;
   width: 64px;
@@ -113,6 +114,7 @@ ul li a:hover {
   background: var(--surface-color-hover);
   border: 2px solid var(--text-color);
 }
+ 
 
 /* Social Links*/
 #social-links {
